@@ -14,7 +14,7 @@ An AI-powered web app that detects whether a news article is real or fake!
 ## 🛠️ Tech Stack
 - Python
 - Streamlit
-- Groq AI (Llama 3.3)
+- Groq AI (GPT-OSS 120B)
 - python-dotenv
 
 ## 📦 Installation
